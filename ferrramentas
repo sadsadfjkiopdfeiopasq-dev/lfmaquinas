@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head> <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17892039462"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17892039462');
+</script>
+
+
+
+=  
+    <meta charset="UTF-8">
+    <title>LF Máquinas e Ferramentas | Venda de Máquinas Industriais</title>
+    <meta name="description" content="LF Máquinas e Ferramentas - Venda de máquinas, ferramentas industriais, equipamentos profissionais e soluções para indústrias em todo o Brasil.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #1a1a1a;
+            background-color: #ffffff;
+        }
+        header {
+            background: #0d1b2a;
+            color: #fff;
+            padding: 25px 10%;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 32px;
+        }
+        header p {
+            margin-top: 8px;
+            font-size: 16px;
+            opacity: 0.9;
+        }
+        .services-top {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 20px;
+        }
+        .service-box {
+            background: #1b263b;
+            padding: 15px 20px;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+        .cta-btn {
+            display: inline-block;
+            margin-top: 25px;
+            background: #e63946;
+            color: #fff;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        section {
+            padding: 60px 10%;
+        }
+        .section-title {
+            font-size: 28px;
+            margin-bottom: 20px;
+        }
+        .about, .contact {
+            background: #f5f5f5;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 25px;
+        }
+        .card {
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 6px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.05);
+        }
+        footer {
+            background: #0d1b2a;
+            color: #fff;
+            padding: 30px 10%;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>LF Máquinas e Ferramentas</h1>
+    <p>Soluções completas em máquinas, ferramentas e equipamentos industriais</p>
+
+    <div class="services-top">
+        <div class="service-box">Máquinas Industriais</div>
+        <div class="service-box">Ferramentas Profissionais</div>
+        <div class="service-box">Equipamentos para Indústria</div>
+        <div class="service-box">Venda para Empresas e Construtoras</div>
+        <div class="service-box">Atendimento Nacional</div>
+    </div>
+
+    <a href="#contato" class="cta-btn">Solicitar Orçamento Agora</a>
+</header>
+
+<section>
+    <h2 class="section-title">Por que escolher a LF Máquinas e Ferramentas?</h2>
+
+    <div class="grid">
+        <div class="card">
+            <h3>Empresa Sólida</h3>
+            <p>Mais de 10 anos de atuação no mercado, com estrutura robusta e capital sólido.</p>
+        </div>
+        <div class="card">
+            <h3>Portfólio Completo</h3>
+            <p>Máquinas, ferramentas e equipamentos para atender pequenas, médias e grandes indústrias.</p>
+        </div>
+        <div class="card">
+            <h3>Atendimento Especializado</h3>
+            <p>Equipe preparada para entender sua necessidade e indicar a melhor solução.</p>
+        </div>
+        <div class="card">
+            <h3>Venda B2B</h3>
+            <p>Atendimento focado em empresas, construtoras, indústrias e profissionais.</p>
+        </div>
+    </div>
+</section>
+
+<section class="about">
+    <h2 class="section-title">Sobre a Empresa</h2>
+    <p>
+        A <strong>LF Comercial de Bens LTDA</strong>, nome fantasia <strong>LF Máquinas e Ferramentas</strong>, 
+        atua no fornecimento de máquinas, ferramentas e equipamentos industriais, atendendo clientes em todo o Brasil.
+    </p>
+    <p>
+        Com sede no Rio Grande do Sul e atuação nacional, a empresa se destaca pela confiabilidade, estrutura e compromisso com resultados.
+    </p>
+</section>
+
+<section id="contato" class="contact">
+    <h2 class="section-title">Contato</h2>
+
+    <p><strong>Endereço:</strong> Rodovia BR-116, 5003 – Travessão – Dois Irmãos/RS – CEP 93950-000</p>
+    <p><strong>Telefone:</strong> (51) 3564-8300 | (51) 2312-1515</p>
+    <p><strong>E-mail:</strong> controladoria@gg10.com.br</p>
+
+    <a href="tel:5135648300" class="cta-btn">Ligar Agora</a>
+</section>
+
+<footer>
+    <p>
+        © LF Máquinas e Ferramentas – LF Comercial de Bens LTDA  
+        <br>
+        CNPJ: 91.845.735/0004-14
+    </p>
+</footer>
+
+</body>
+</html>
